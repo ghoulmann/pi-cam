@@ -23,7 +23,7 @@ In verbose bashish,
 <h2>To Do</h2>
 <ul><li>alias in /usr/bin (perhaps)</li>
 	<li>option to run as service from init.d</li>
-	<li>echo url to stream on start?</li>
+	<li>echo url to stream on start? http://$ipaddr:$port/?action=stream</li>
 	<li>detect yuv v mjpeg and configure as appropriate(?)</li>
 </ul>
 <h2>Sources</h2>

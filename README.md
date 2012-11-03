@@ -24,6 +24,7 @@ In verbose bashish,
 <ul><li>alias in /usr/bin (perhaps)</li>
 	<li>option to run as service from init.d</li>
 	<li>echo url to stream on start?</li>
+	<li>detect yuv v mjpeg and configure as appropriate(?)</li>
 </ul>
 <h2>Sources</h2>
 Based on links at Adafruit: <a href="http://www.adafruit.com/blog/2012/11/02/pieye-streaming-webcam-piday-raspberrypi-raspberry_pi/">http://www.adafruit.com/blog/2012/11/02/pieye-streaming-webcam-piday-raspberrypi-raspberry_pi"</a>

@@ -1,5 +1,6 @@
 <html>
 <head></head><body>
+<i>Scripted by Rik Goldman based on web resources (below)</i>
 <h2>Objective</h2>
 Install and configure streaming web video for Raspberry Pi running Raspbian. Read about it at <a href="http://www.adafruit.com/blog/2012/11/02/pieye-streaming-webcam-piday-raspberrypi-raspberry_pi/">Adafruit</a>.
 <h2>Assumptions</h2>

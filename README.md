@@ -26,6 +26,7 @@ In verbose bashish,
 	<li>option to run as service from init.d</li>
 	<li>echo url to stream on start? http://$ipaddr:$port/?action=stream</li>
 	<li>detect yuv v mjpeg and configure as appropriate(?)</li>
+	<li>Run as root, service for /etc/init.d (fork)
 </ul>
 <h2>Sources</h2>
 Based on links at Adafruit: <a href="http://www.adafruit.com/blog/2012/11/02/pieye-streaming-webcam-piday-raspberrypi-raspberry_pi/">http://www.adafruit.com/blog/2012/11/02/pieye-streaming-webcam-piday-raspberrypi-raspberry_pi"</a>

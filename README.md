@@ -1,6 +1,6 @@
 <html>
 <head></head><body>
-<i>Scripted by Rik Goldman based on web resources (below), and with integral testing and feedback by Paul, a junior at Chelsea School in Silver Spring, MD.</i>
+<i>Scripted by Rik Goldman based on web resources (below), and with integral testing and feedback by Paul and Delonte, high-school students at Chelsea School in Silver Spring, MD. Consider using in conjunction with Zoneminder (scripted for installation on Raspbian at https://github.com/ghoulmann/rpi-zoneminder.</i>
 <h2>Objective</h2>
 Install and configure streaming web video for Raspberry Pi running Raspbian. Read about it at <a href="http://www.adafruit.com/blog/2012/11/02/pieye-streaming-webcam-piday-raspberrypi-raspberry_pi/">Adafruit</a>.
 <h2>Assumptions</h2>

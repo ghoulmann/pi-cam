@@ -35,8 +35,7 @@ install libv4l-0 v4l-utils
 wget -O /tmp/MJPG-streamer-rpi.tar.gz $websource
 
 #Untar and decompress to target (specified above)
-
-tar xvzf MJPG-streamer-rpi.tar.gz --directory $target
+tar xvzf /tmp/MJPG-streamer-rpi.tar.gz --directory $target
 
 #set port in mjpg-streamer.sh
 
